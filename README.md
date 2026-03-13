@@ -6,7 +6,6 @@
   When I'm not building resilient web platforms or IoT safety devices, I'm probably turning a legacy PC into a Linux home server or flashing custom Android ROMs.
 </p>
 
----
 
 ## 🛠️ Tech Stack
 
@@ -36,15 +35,11 @@
   <a href="https://www.cloudflare.com/"><img src="https://skillicons.dev/icons?i=cloudflare" title="Cloudflare" width="40" height="40" /></a>
 </p>
 
----
-
 ## 🚀 What I'm up to:
 * 🛠️ **Self-Hosting:** Running my own Ubuntu home server (Nginx, PM2, Cloudflare Tunnels) from a repurposed PC.
 * 💻 **Currently Building:** Scalable web applications and playing around with ESP32 microcontrollers and MQTTS.
 * 🏆 **Recent Win:** Secured 1st Place at the Smart India Hackathon (SIH) 2025 Internal Hackathon (Hardware) for a wearable IoT safety device.
-* 🎓 **Campus Involvement:** Student Ambassador for Adobe, Webm Developer for DeCoders Technical Society, and Web/Media Team for TEDxSiddaganga.
-
----
+* 🎓 **Campus Involvement:** Student Ambassador for Adobe, Web Developer for DeCoders Technical Society, and Web/Media Team for TEDxSiddaganga.
 
 ## 📈 GitHub Stats
 
