@@ -8,7 +8,7 @@
 
 ---
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 **Languages**
 <p>
@@ -38,7 +38,7 @@
 
 ---
 
-### 🚀 What I'm up to:
+## 🚀 What I'm up to:
 * 🛠️ **Self-Hosting:** Running my own Ubuntu home server (Nginx, PM2, Cloudflare Tunnels) from a repurposed PC.
 * 💻 **Currently Building:** Scalable web applications and playing around with ESP32 microcontrollers and MQTTS.
 * 🏆 **Recent Win:** Secured 1st Place at the Smart India Hackathon (SIH) 2025 Internal Hackathon (Hardware) for a wearable IoT safety device.
@@ -46,7 +46,7 @@
 
 ---
 
-### 📈 GitHub Stats
+## 📈 GitHub Stats
 
 <p align="center">
   <picture>
