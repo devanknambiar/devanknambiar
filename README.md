@@ -1,6 +1,6 @@
 <h1>About Me 👋</h1>
 
-<h3>2nd-Year CSE Student | Full-Stack Developer | Hardware Tinkerer</h3>
+<h3>Sophomore | Full-Stack Developer | Hardware Tinkerer</h3>
 
 <p>
   When I'm not building resilient web platforms or IoT safety devices, I'm probably turning a legacy PC into a Linux home server or flashing custom Android ROMs.
