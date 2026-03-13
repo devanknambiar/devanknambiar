@@ -1,11 +1,15 @@
-<h1>About Me 👋</h1>
+<h1>
+  About Me 👋
+  <a href="https://linkedin.com/in/devanknambiar"><img align="right" src="https://skillicons.dev/icons?i=linkedin" title="LinkedIn" width="38" height="38" style="margin-left: 10px;" /></a>
+  <a href="mailto:devank@monotake.com"><img align="right" src="https://skillicons.dev/icons?i=gmail" title="Email" width="38" height="38" style="margin-left: 10px;" /></a>
+  <a href="https://monotake.com"><img align="right" src="https://monotake.com/icon.png" title="Portfolio (Self-Hosted)" width="38" height="38" style="margin-left: 10px;" /></a>
+</h1>
 
 <h3>Sophomore | Full-Stack Developer | Hardware Tinkerer</h3>
 
 <p>
   When I'm not building resilient web platforms or IoT safety devices, I'm probably turning a legacy PC into a Linux home server or flashing custom Android ROMs.
 </p>
-
 
 ## 🛠️ Tech Stack
 
@@ -61,14 +65,4 @@
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=devanknambiar&layout=compact&theme=default">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devanknambiar&layout=compact&theme=default" alt="Top Languages" />
   </picture>
-</p>
-
-<p align="center">
-
-</p>
-
-<p align="center">
-  <a href="https://linkedin.com/in/devanknambiar"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:devank@monotake.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://monotake.com"><img src="https://img.shields.io/badge/Portfolio-255E63?style=flat&logo=Web&logoColor=white" alt="Portfolio"></a>
 </p>
