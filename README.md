@@ -12,17 +12,28 @@
 
 **Languages**
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp,py,js,bash" alt="Languages" />
+  <a href="https://isocpp.org/"><img src="https://skillicons.dev/icons?i=cpp" title="C++" width="40" height="40" /></a>
+  <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=py" title="Python" width="40" height="40" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" title="JavaScript" width="40" height="40" /></a>
+  <a href="https://www.gnu.org/software/bash/"><img src="https://skillicons.dev/icons?i=bash" title="Bash" width="40" height="40" /></a>
 </p>
 
 **Frontend & Backend**
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express" alt="Frontend & Backend" />
+  <a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react" title="React" width="40" height="40" /></a>
+  <a href="https://nextjs.org/"><img src="https://skillicons.dev/icons?i=nextjs" title="Next.js" width="40" height="40" /></a>
+  <a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=nodejs" title="Node.js" width="40" height="40" /></a>
+  <a href="https://expressjs.com/"><img src="https://skillicons.dev/icons?i=express" title="Express.js" width="40" height="40" /></a>
 </p>
 
 **Databases & Infrastructure**
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,firebase,ubuntu,nginx,vercel,cloudflare" alt="Databases & Infrastructure" />
+  <a href="https://www.mongodb.com/"><img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB" width="40" height="40" /></a>
+  <a href="https://firebase.google.com/"><img src="https://skillicons.dev/icons?i=firebase" title="Firebase" width="40" height="40" /></a>
+  <a href="https://ubuntu.com/"><img src="https://skillicons.dev/icons?i=ubuntu" title="Ubuntu" width="40" height="40" /></a>
+  <a href="https://nginx.org/"><img src="https://skillicons.dev/icons?i=nginx" title="Nginx" width="40" height="40" /></a>
+  <a href="https://vercel.com/"><img src="https://skillicons.dev/icons?i=vercel" title="Vercel" width="40" height="40" /></a>
+  <a href="https://www.cloudflare.com/"><img src="https://skillicons.dev/icons?i=cloudflare" title="Cloudflare" width="40" height="40" /></a>
 </p>
 
 ---
