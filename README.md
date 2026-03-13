@@ -1,4 +1,4 @@
-<h1>Hi there, I'm Devank A. Nambiar! 👋</h1>
+<h1>About Me 👋</h1>
 
 <h3>2nd-Year CSE Student | Full-Stack Developer | Hardware Tinkerer</h3>
 
