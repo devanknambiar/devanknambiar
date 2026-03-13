@@ -47,8 +47,29 @@
 ---
 
 ### 📈 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devanknambiar&show_icons=true&theme=radical&hide_border=true" alt="Devank's GitHub stats" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=devanknambiar&theme=github_dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=devanknambiar&theme=default">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=devanknambiar&theme=default" alt="Streak Stats" height="170" />
+  </picture>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=devanknambiar&show_icons=true&theme=github_dark&include_all_commits=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=devanknambiar&show_icons=true&theme=default&include_all_commits=true">
+    <img src="https://github-readme-stats.vercel.app/api?username=devanknambiar&show_icons=true&theme=default&include_all_commits=true" alt="Overall Stats" height="170" />
+  </picture>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=devanknambiar&layout=compact&theme=github_dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=devanknambiar&layout=compact&theme=default">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devanknambiar&layout=compact&theme=default" alt="Top Languages" />
+  </picture>
+</p>
+
+<p align="center">
+
 </p>
 
 <p align="center">
