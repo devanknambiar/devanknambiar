@@ -16,6 +16,7 @@
 **Languages**
 <p>
   <a href="https://isocpp.org/"><img src="https://skillicons.dev/icons?i=cpp" title="C++" width="40" height="40" /></a>
+  <a href="https://www.go.dev/"><img src="https://skillicons.dev/icons?i=go" title="Go" width="40" height="40" /></a>
   <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=py" title="Python" width="40" height="40" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" title="JavaScript" width="40" height="40" /></a>
   <a href="https://www.gnu.org/software/bash/"><img src="https://skillicons.dev/icons?i=bash" title="Bash" width="40" height="40" /></a>
