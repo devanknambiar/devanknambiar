@@ -42,9 +42,9 @@
 
 ## 🚀 What I'm up to:
 * 🛠️ **Self-Hosting:** Running my own Ubuntu home server (Nginx, PM2, Cloudflare Tunnels) from a repurposed PC.
-* 💻 **Currently Building:** Scalable web applications and playing around with ESP32 microcontrollers and MQTTS.
+* 💻 **Currently Building:** Building MonoLang, a statically-typed tree-walking interpreter in Go featuring lexical analysis, parsing, AST evaluation, and an interactive web playground!
 * 🏆 **Recent Win:** Secured 1st Place at the Smart India Hackathon (SIH) 2025 Internal Hackathon (Hardware) for a wearable IoT safety device.
-* 🎓 **Campus Involvement:** Student Ambassador for Adobe, Web Developer for DeCoders Technical Society, and Web/Media Team for TEDxSiddaganga.
+* 🎓 **Campus Involvement:** GirlScript Summer of Code (GSSoC), Served as the Student Ambassador for Adobe, Web Developer for DeCoders Technical Society, and Web/Media Team for TEDxSiddaganga.
 
 ## 📈 GitHub Stats
 
@@ -58,7 +58,7 @@
 
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=devanknambiar&layout=compact&theme=github_dark">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=devanknambiar&layout=compact&theme=default">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=devanknambiar&layout=compact&theme=light">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devanknambiar&layout=compact&theme=default" alt="Top Languages" />
   </picture>
 </p>
